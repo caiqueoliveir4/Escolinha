@@ -29,7 +29,7 @@ public class SistemaController : ControllerBase
     }
 
     //Início do trecho para alteração
-    [HttpGet("{id}")]
+    [HttpGet("{codigo}")]
     //Fim do trecho para alteração
     public ActionResult<Sistema> Pesquisar(int codigo)
     {
