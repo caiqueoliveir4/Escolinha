@@ -1,0 +1,5 @@
+C:\Users\caique\source\Escolinha\Semana 11\obj\Debug\net6.0\Semana 11.csproj.AssemblyReference.cache
+C:\Users\caique\source\Escolinha\Semana 11\obj\Debug\net6.0\Semana 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caique\source\Escolinha\Semana 11\obj\Debug\net6.0\Semana 11.AssemblyInfoInputs.cache
+C:\Users\caique\source\Escolinha\Semana 11\obj\Debug\net6.0\Semana 11.AssemblyInfo.cs
+C:\Users\caique\source\Escolinha\Semana 11\obj\Debug\net6.0\Semana 11.csproj.CoreCompileInputs.cache
